@@ -1,2 +1,2 @@
 # machine-learning-models-
-the machine learning models attached to SofaSofa
+realize the machine learning models step by step
