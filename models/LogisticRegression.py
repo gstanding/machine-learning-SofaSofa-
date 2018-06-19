@@ -2,7 +2,7 @@
 
 #sys.path
 import sys
-sys.path.append('E:\\DNN\\')
+sys.path.append('../')
 
 import numpy as np
 import matplotlib.pyplot as plt
